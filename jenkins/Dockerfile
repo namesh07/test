@@ -1,0 +1,2 @@
+FROM jenkins
+EXPOSE 8080
